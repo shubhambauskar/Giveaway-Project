@@ -1,0 +1,11 @@
+.register-photo .image-holder {
+  display:table-cell;
+  width:auto;
+  background:url('/assets/login.png');
+  background-size:cover;
+}
+.login-dark .illustration {
+  text-align:center;
+  font-size:100px;
+  color:#2980ef;
+}
